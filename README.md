@@ -24,7 +24,4 @@ This is an e-commerce website for a headphone shopping. It provides features lik
    - Create a new database and name it (e.g., `groceries_db`).  
    - Import the `GroceriesDB.sql` file into the database.  
 
-2. Clone the repository:  
-   ```bash  
-   git clone <repository_url>  
-   cd MyGrocers  
+2. Clone the repository 
