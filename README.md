@@ -4,9 +4,7 @@ This is an e-commerce website for a headphone shopping. It provides features lik
 
 ## Features  
 - **Cart:** Add items to your cart and update quantities.  
-- **Payment:** Secure payment integration for easy checkout.  
-- **Promotional Emails:** Send promotional offers and updates to registered users.  
-
+- **Payment:** Secure payment integration for easy checkout.
 ---
 
 ## Getting Started  
